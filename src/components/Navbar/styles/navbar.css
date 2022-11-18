@@ -1,0 +1,16 @@
+.color-gray {
+  color: #bbbbbb !important;
+}
+
+.color-green {
+  color: #57c54b !important;
+}
+
+a:not(.navbar-brand) {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.active {
+  background-color: #57c54b;
+  color: white !important;
+}

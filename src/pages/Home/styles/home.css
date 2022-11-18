@@ -1,0 +1,11 @@
+.color-div {
+  transform: rotate(35deg);
+  height: 190vh;
+  right: -35%;
+  background-color: #57c54b;
+  z-index: -1;
+}
+
+.link-color {
+  background-color: #57c54b;
+}
